@@ -45,3 +45,6 @@ prisma cmd
 -> npx prisma generate
 -> npx prisma db push
 -> npm i @prisma/client
+
+
+-> npx prisma migrate reset
