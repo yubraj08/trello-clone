@@ -48,3 +48,6 @@ prisma cmd
 
 
 -> npx prisma migrate reset
+
+
+-> npm i @hello-pangea/dnd [drag and drop feature]
