@@ -51,3 +51,5 @@ prisma cmd
 
 
 -> npm i @hello-pangea/dnd [drag and drop feature]
+
+-> npm i @tanstack/react-query
